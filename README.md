@@ -79,6 +79,9 @@ cnv.assess_cnv(adata)
 ---
 ## DATASET
 please download files from googledrive: https://drive.google.com/drive/folders/1gXJyu3XWCh6ZjN99JNyX-N5gW9ts4jkQ?usp=drive_link.
+For Task 2b, please download the benchmark dataset.
+For Task 3, please download the remaining three datasets.
+
 ## Data Requirements
 
 | Object                           | Mandatory fields                                    | Notes                                                         |
